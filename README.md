@@ -22,7 +22,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
 
-**15 Juni2021**  
+**15 Juni 2021**  
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
